@@ -7,4 +7,6 @@ Route logging function.
 
 ## Usage (with koa-router)
 
-`routeLogger(port, `/api/v1/apples`, applesRouter)`
+```
+routeLogger(port, `/api/v1/apples`, applesRouter)
+```
