@@ -1,6 +1,7 @@
 {
   "name": "route-logger",
-  "version": "1.0.0",
+  "version": "1.0.1",
+  "repository": "corysimmons/route-logger",
   "main": "./dist/index.js",
   "scripts": {
     "dev": "babel -w src -d dist"
