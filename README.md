@@ -1,4 +1,6 @@
 # route-logger
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/corysimmons/route-logger.svg)](https://greenkeeper.io/)
 Route logging function.
 
 ## Install
